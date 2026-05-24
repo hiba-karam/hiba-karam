@@ -51,14 +51,20 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 | Domaine | Technologies |
 |---|---|
 | **IA & Data** | Python · Flask · Django · LLM · Deep Learning · IA Générative |
-| **Web & Architecture** | Symfony 7 · JavaScript · PHP · HTML/CSS · API REST · MVC |
-| **Bases de données** | MySQL · SQL Server |
+| **Web & Architecture** | Symfony 7 · JavaScript · PHP · HTML/CSS · MariaDB · MySQL · API REST · MVC |
 | **Embarqué & Système** | C · C++ · Arduino · Unix |
-| **Outils & Méthodes** | Git · Agile/Scrum · StarUML · VS Code · POO |
+| **Outils & Méthodes** | Git · Agile/Scrum · UML/Merise · StarUML · VS Code · POO |
 
 ---
 
 ## Projets
+
+### [Plateforme de Micro-learning — Quiz Techniques](https://github.com/hiba-karam/plateforme-microlearning-quiz)
+> `Python` `Django` `MariaDB` `Algorithme Adaptatif` `Sécurité Backend`
+
+Solution de micro-learning pour l'auto-évaluation technique. Intégration d'un moteur adaptatif basé sur un arbre de décision pour ajuster la difficulté des questions en temps réel et sécurisation stricte des sessions par Timestamp UNIX côté serveur.
+
+---
 
 ### [AWB Chatbot — Assistant Bancaire IA](https://github.com/hiba-karam/chatbot-bancaire-awb)
 > `Python` `Flask` `LLM` `HTML/CSS/JS`
@@ -150,7 +156,7 @@ Gestion complète d'une agence de location : parc automobile, contrats, disponib
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiba%20Karam-E8A0B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-karam-b29ab7319)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiba%20Karam-E8A0B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-karam)
 [![Email](https://img.shields.io/badge/Email-hibakaram2k06@gmail.com-E8A0B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hibakaram2k06@gmail.com)
 
 </div>
