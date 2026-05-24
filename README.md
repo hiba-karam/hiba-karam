@@ -13,35 +13,35 @@ Passionnée par l'**Intelligence Artificielle**, le **Deep Learning** et la **Cy
 
 Rigoureuse et curieuse, je maîtrise la chaîne complète du développement : de la logique embarquée jusqu'aux architectures d'IA générative, en passant par la conception d'applications web sécurisées. Tutrice, ambassadrice et déléguée au sein de mon établissement.
 
-> *"De la gestion bas niveau jusqu'aux LLMs — je construis, j'apprends, j'innove."*
+> *"De la gestion bas niveau jusqu'aux LLMs - je construis, j'apprends, j'innove."*
 
 ---
 
 ## Formation
 
-**Diplôme d'Ingénieur d'État — Informatique et Réseaux**
-Ecole Marocaine des Sciences de l'Ingénieur (EMSI), Casablanca · Oct 2023 – Juin 2028
+**Diplôme d'Ingénieur d'État - Informatique et Réseaux**
+Ecole Marocaine des Sciences de l'Ingénieur (EMSI), Casablanca · Oct 2023 - Juin 2028
 
-**Baccalauréat Sciences Physiques — Option Français**
-CPGE Lycée Mohamed V, Casablanca · Sep 2022 – Juin 2023
+**Baccalauréat Sciences Physiques - Option Français**
+CPGE Lycée Mohamed V, Casablanca · Sep 2022 - Juin 2023
 
 ---
 
 ## Expérience
 
-**Coordinatrice des Délégués — EMSI** *(Oct 2025 – Présent)*
+**Coordinatrice des Délégués - EMSI** *(Oct 2025 – Présent)*
 Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
-**Stagiaire Développeuse IA & Chatbot — Attijariwafa Bank** *(Sep 2025 · 1 mois)*
+**Stagiaire Développeuse IA & Chatbot - Attijariwafa Bank** *(Sep 2025 · 1 mois)*
 Conception et développement d'un chatbot de A à Z en Python et Flask, intégrant un LLM et une interface web interactive. Initiation Agile au sein du Digital Center d'innovation.
 
-**Tutrice — EMSI LEVEL UP** *(Juil 2025 – Présent)*
+**Tutrice - EMSI LEVEL UP** *(Juil 2025 – Présent)*
 Accompagnement personnalisé d'étudiants en algorithmique, POO et développement web. Conception d'exercices adaptés et préparation aux examens.
 
-**Ambassadrice — Career Center EMSI** *(Juil 2025 – Présent)*
+**Ambassadrice - Career Center EMSI** *(Juil 2025 – Présent)*
 Organisation d'ateliers d'orientation et participation à des forums emploi. Promotion des événements et programmes du Career Center.
 
-**Déléguée de classe — EMSI** *(Oct 2023 – Présent)*
+**Déléguée de classe - EMSI** *(Oct 2023 – Présent)*
 Représentation des étudiants auprès de l'administration et du corps enseignant.
 
 ---
@@ -60,35 +60,35 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 
 ## Projets
 
-### [Plateforme de Micro-learning — Quiz Techniques](https://github.com/hiba-karam/plateforme-microlearning-quiz)
+### [Plateforme de Micro-learning - Quiz Techniques](https://github.com/hiba-karam/plateforme-microlearning-quiz)
 > `Python` `Django` `MariaDB` `Algorithme Adaptatif` `Sécurité Backend`
 
 Solution de micro-learning pour l'auto-évaluation technique. Intégration d'un moteur adaptatif basé sur un arbre de décision pour ajuster la difficulté des questions en temps réel et sécurisation stricte des sessions par Timestamp UNIX côté serveur.
 
 ---
 
-### [AWB Chatbot — Assistant Bancaire IA](https://github.com/hiba-karam/chatbot-bancaire-awb)
+### [AWB Chatbot - Assistant Bancaire IA](https://github.com/hiba-karam/chatbot-bancaire-awb)
 > `Python` `Flask` `LLM` `HTML/CSS/JS`
 
 Chatbot intelligent développé en stage chez Attijariwafa Bank. Architecture asynchrone connectant un LLM à une interface web réactive avec gestion des sessions sécurisées et système de thèmes clair/sombre.
 
 ---
 
-### [Dear Future — Capsule Temporelle Numérique](https://github.com/hiba-karam/dear-future-symfony)
+### [Dear Future - Capsule Temporelle Numérique](https://github.com/hiba-karam/dear-future-symfony)
 > `Symfony 7` `PHP 8.2` `MySQL` `MVC`
 
 Application web sécurisée avec verrouillage temporel actif des données côté serveur. Association de lettres digitales et cadeaux physiques. Algorithme "Smart Zoom" sur mesure pour navigation immersive dans un catalogue produit.
 
 ---
 
-### [AfriCAN Manager — Gestion CAN 2025](https://github.com/hiba-karam/gestion-can-2025)
+### [AfriCAN Manager - Gestion CAN 2025](https://github.com/hiba-karam/gestion-can-2025)
 > `Vanilla JS` `Chart.js` `JSON` `LocalStorage`
 
 SPA complète en Zéro Framework : routage manuel, manipulation DOM, KPI temps réel, CRUD complet et internationalisation FR/EN/AR avec gestion dynamique du RTL.
 
 ---
 
-### Site Vitrine SDS — Souidis *(privé — projet client)*
+### Site Vitrine SDS - Souidis *(privé - projet client)*
 > `HTML5` `CSS3` `JavaScript`
 
 Site institutionnel et catalogue en ligne développé pour la société Souidis, distributeur d'outillage professionnel au Maroc. Système de devis en ligne, interface d'administration et suivi des commandes avec gestion des données en temps réel. Design responsive mobile/desktop.
@@ -149,7 +149,7 @@ Gestion complète d'une agence de location : parc automobile, contrats, disponib
 
 ## Langues
 
-**Arabe** — Langue maternelle · **Français** — Courant · **Anglais** — Intermédiaire–Avancé
+**Arabe** - Langue maternelle · **Français** - Courant · **Anglais** - Intermédiaire–Avancé
 
 ---
 
