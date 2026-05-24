@@ -13,7 +13,7 @@ Passionnée par l'**Intelligence Artificielle**, le **Deep Learning** et la **Cy
 
 Rigoureuse et curieuse, je maîtrise la chaîne complète du développement : de la logique embarquée jusqu'aux architectures d'IA générative, en passant par la conception d'applications web sécurisées. Tutrice, ambassadrice et déléguée au sein de mon établissement.
 
-> *"De la gestion bas niveau jusqu'aux LLMs — je construis, j'apprends, j'innove."*
+> *"De la gestion bas niveau jusqu'aux LLMs - je construis, j'apprends, j'innove."*
 
 ---
 
