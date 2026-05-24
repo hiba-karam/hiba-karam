@@ -149,7 +149,7 @@ Gestion complète d'une agence de location : parc automobile, contrats, disponib
 
 ## Langues
 
-**Arabe** - Langue maternelle · **Français** - Courant · **Anglais** - Intermédiaire–Avancé
+**Arabe** - Langue maternelle · **Français** - Courant · **Anglais** - Intermédiaire-Avancé
 
 ---
 
