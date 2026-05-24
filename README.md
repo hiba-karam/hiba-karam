@@ -61,9 +61,9 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 ## Projets
 
 ### [Plateforme de Micro-learning - Quiz Techniques](https://github.com/hiba-karam/plateforme-microlearning-quiz)
-> `Python` `Django` `MariaDB` `Algorithme Adaptatif` `Sécurité Backend`
+> `Python` `Django` `MariaDB` `Algorithme Adaptatif` `Gamification` `Sécurité Backend`
 
-Solution de micro-learning pour l'auto-évaluation technique. Intégration d'un moteur adaptatif basé sur un arbre de décision pour ajuster la difficulté des questions en temps réel et sécurisation stricte des sessions par Timestamp UNIX côté serveur.
+Conception et développement d'une plateforme web de micro-learning dédiée à l'évaluation technique en continu. Intégration d'un moteur adaptatif s'appuyant sur un arbre de décision pour ajuster dynamiquement la difficulté des questions. Pour maximiser l'engagement de l'apprenant, un système complet de gamification a été mis en place, incluant l'attribution de points, des badges de maîtrise et un classement global. L'intégrité des examens est garantie par une sécurisation stricte des sessions via Timestamp UNIX côté serveur.
 
 ---
 
