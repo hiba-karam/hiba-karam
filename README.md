@@ -13,7 +13,7 @@ Passionnée par l'**Intelligence Artificielle**, le **Deep Learning** et la **Cy
 
 Rigoureuse et curieuse, je maîtrise la chaîne complète du développement : de la logique embarquée jusqu'aux architectures d'IA générative, en passant par la conception d'applications web sécurisées. Tutrice, ambassadrice et déléguée au sein de mon établissement.
 
-> *"De la gestion bas niveau jusqu'aux LLMs - je construis, j'apprends, j'innove."*
+> *"De la gestion bas niveau jusqu'aux LLMs — je construis, j'apprends, j'innove."*
 
 ---
 
@@ -51,9 +51,10 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 | Domaine | Technologies |
 |---|---|
 | **IA & Data** | Python · Flask · Django · LLM · Deep Learning · IA Générative |
-| **Web & Architecture** | Symfony 7 · JavaScript · PHP · HTML/CSS · MariaDB · MySQL · API REST · MVC |
+| **Web & Architecture** | Symfony 7 · JavaScript · PHP · HTML/CSS · API REST · MVC |
+| **Bases de données** | MySQL · SQL Server |
 | **Embarqué & Système** | C · C++ · Arduino · Unix |
-| **Outils & Méthodes** | Git · Agile/Scrum · UML/Merise · StarUML · VS Code · POO |
+| **Outils & Méthodes** | Git · Agile/Scrum · StarUML · VS Code · POO |
 
 ---
 
