@@ -51,7 +51,7 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 | Domaine | Technologies |
 |---|---|
 | **IA & Data** | Python · Flask · Django · LLM · Deep Learning · IA Générative |
-| **Web & Architecture** | Symfony 7 · JavaScript · PHP · HTML/CSS · API REST · MVC |
+| **Web & Architecture** | Symfony 7 · Doctrine ORM · JavaScript · PHP · HTML/CSS · API REST · MVC |
 | **Bases de données** | MySQL · SQL Server |
 | **Embarqué & Système** | C · C++ · Arduino · Unix |
 | **Outils & Méthodes** | Git · Agile/Scrum · StarUML · VS Code · POO |
@@ -88,10 +88,10 @@ SPA complète en Zéro Framework : routage manuel, manipulation DOM, KPI temps r
 
 ---
 
-### Site Vitrine SDS - Souidis *(privé - projet client)*
-> `HTML5` `CSS3` `JavaScript`
+### Site Vitrine SDS - Souidis (Projet Client)
+> `PHP 8` `Symfony 7` `MySQL` `API REST` `JavaScript`
 
-Site institutionnel et catalogue en ligne développé pour la société Souidis, distributeur d'outillage professionnel au Maroc. Système de devis en ligne, interface d'administration et suivi des commandes avec gestion des données en temps réel. Design responsive mobile/desktop.
+Application web Full-Stack de distribution d'outillage professionnel. Architecture découplée intégrant un backend Symfony (PHP 8, Doctrine) avec API REST pour le traitement asynchrone des devis, la gestion administrative des commandes et le suivi client en temps réel.
 
 ---
 
