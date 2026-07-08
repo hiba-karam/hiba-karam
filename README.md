@@ -63,7 +63,7 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 
 ## Projets
 
-### [M-IA - API Interne et Base de Données](https://github.com/hiba-karam/m-ia)
+### [M-IA– Plateforme de Support et d’Audit](https://github.com/hiba-karam/m-ia)
 > `Node.js` `Express.js` `SQL Server` `API REST` `Orchestration` `Audit`
 
 Réalisation du socle technique backend pour le projet M-IA. Création de l'API interne gérant l'authentification, l'orchestration logicielle et l'intégration des API M-support selon des règles métier strictes. L'architecture de persistance des données repose exclusivement sur SQL Server avec la modélisation complète des utilisateurs, rôles, tickets, quotas et logs d'audit.
