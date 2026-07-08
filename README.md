@@ -29,6 +29,9 @@ CPGE Lycée Mohamed V, Casablanca · Sep 2022 - Juin 2023
 
 ## Expérience
 
+**Stagiaire en Développement Backend - M-AUTOMOTIV** *(Juillet 2026 – Présent)*
+Développement d'une architecture backend robuste pour la gestion des tickets de support et l'automatisation des flux e-mails. Implémentation d'un système d'audit et de traçabilité sécurisé pour le système d'information.
+
 **Coordinatrice des Délégués - EMSI** *(Oct 2025 – Présent)*
 Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
@@ -59,6 +62,11 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 ---
 
 ## Projets
+
+### [M-IA - Plateforme de Support et d'Audit](https://github.com/hiba-karam/m-ia)
+> `Node.js` `Express.js` `SQL Server` `API REST` `RBAC` `Audit & Traçabilité`
+
+Solution complète combinant automatisation des tickets, gestion avancée des rôles et mécanismes rigoureux de traçabilité des données. Architecture robuste conçue pour le traitement asynchrone des e-mails et la centralisation sécurisée des logs système, développée en collaboration avec l'équipe M-AUTOMOTIV.
 
 ### [Plateforme de Micro-learning - Quiz Techniques](https://github.com/hiba-karam/plateforme-microlearning-quiz)
 > `Python` `Django` `MariaDB` `Algorithme Adaptatif` `Gamification` `Sécurité Backend`
