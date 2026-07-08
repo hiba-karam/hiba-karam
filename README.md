@@ -9,33 +9,33 @@
 ## À propos
 
 Étudiante en **3ᵉ année Ingénierie Informatique et Réseaux** à l'EMSI Casablanca.
-Passionnée par l'**Intelligence Artificielle**, le **Deep Learning** et la **Cybersécurité**, avec une expérience concrète en entreprise chez **Attijariwafa Bank** et des certifications reconnues internationalement (IBM, DeepLearning.AI, Google, EPFL, University of Michigan).
+Passionnée par l'**Intelligence Artificielle**, le **Deep Learning** et la **Cybersécurité**, avec une expérience concrète en entreprise chez **Attijariwafa Bank** et **M-AUTOMOTIV**. Certifiée internationalement (IBM, DeepLearning.AI, Google, EPFL, University of Michigan).
 
-Rigoureuse et curieuse, je maîtrise la chaîne complète du développement : de la logique embarquée jusqu'aux architectures d'IA générative, en passant par la conception d'applications web sécurisées. Tutrice, ambassadrice et déléguée au sein de mon établissement.
+Rigoureuse et curieuse, je maîtrise la chaîne complète du développement : de la logique embarquée jusqu'aux architectures d'IA générative, en passant par la conception d'applications web et le développement d'API backend sécurisées. Tutrice, ambassadrice et déléguée au sein de mon établissement.
 
-> *"De la gestion bas niveau jusqu'aux LLMs - je construis, j'apprends, j'innove."*
+> *"De la gestion bas niveau jusqu'aux architectures backend et LLMs - je construis, j'apprends, j'innove."*
 
 ---
 
 ## Formation
 
 **Diplôme d'Ingénieur d'État - Informatique et Réseaux**
-Ecole Marocaine des Sciences de l'Ingénieur (EMSI), Casablanca · Oct 2023 - Juin 2028
+Ecole Marocaine des Sciences de l'Ingénieur (EMSI), Casablanca · Oct 2023 - Présent
 
 **Baccalauréat Sciences Physiques - Option Français**
-CPGE Lycée Mohamed V, Casablanca · Sep 2022 - Juin 2023
+Lycée Mohamed V, Casablanca · Sep 2022 - Juin 2023
 
 ---
 
 ## Expérience
 
-**Stagiaire en Développement Backend - M-AUTOMOTIV** *(Juillet 2026 – Présent)*
-Développement d'une architecture backend robuste pour la gestion des tickets de support et l'automatisation des flux e-mails. Implémentation d'un système d'audit et de traçabilité sécurisé pour le système d'information.
+**Stagiaire Développeuse Backend - M-AUTOMOTIV** *(Juillet 2026 – Présent)*
+Développement de l'API interne (Node.js, Express.js) avec gestion complète de l'authentification. Orchestration des flux, implémentation des règles métier et intégration avec M-support. Conception de la base de données SQL Server (utilisateurs, rôles, emails, tickets, quotas et audit).
 
 **Coordinatrice des Délégués - EMSI** *(Oct 2025 – Présent)*
 Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
-**Stagiaire Développeuse IA & Chatbot - Attijariwafa Bank** *(Sep 2025 · 1 mois)*
+**Stagiaire IA & Chatbot - Attijariwafa Bank** *(Sep 2025 · 1 mois)*
 Conception et développement d'un chatbot de A à Z en Python et Flask, intégrant un LLM et une interface web interactive. Initiation Agile au sein du Digital Center d'innovation.
 
 **Tutrice - EMSI LEVEL UP** *(Juil 2025 – Présent)*
@@ -54,8 +54,8 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 | Domaine | Technologies |
 |---|---|
 | **IA & Data** | Python · Flask · Django · LLM · Deep Learning · IA Générative |
-| **Web & Architecture** | Symfony 7 · Doctrine ORM · JavaScript · PHP · HTML/CSS · API REST · MVC |
-| **Bases de données** | MySQL · SQL Server |
+| **Web & Architecture** | Node.js · Express.js · Symfony 7 · Doctrine ORM · JavaScript · PHP · HTML/CSS · API REST · MVC |
+| **Bases de données** | SQL Server · MySQL · MariaDB |
 | **Embarqué & Système** | C · C++ · Arduino · Unix |
 | **Outils & Méthodes** | Git · Agile/Scrum · StarUML · VS Code · POO |
 
@@ -63,19 +63,19 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 
 ## Projets
 
-### [M-IA - Plateforme de Support et d'Audit](https://github.com/hiba-karam/m-ia)
-> `Node.js` `Express.js` `SQL Server` `API REST` `RBAC` `Audit & Traçabilité`
+### [M-IA - API Interne et Base de Données](https://github.com/hiba-karam/m-ia)
+> `Node.js` `Express.js` `SQL Server` `API REST` `Orchestration` `Audit`
 
-Solution complète combinant automatisation des tickets, gestion avancée des rôles et mécanismes rigoureux de traçabilité des données. Architecture robuste conçue pour le traitement asynchrone des e-mails et la centralisation sécurisée des logs système, développée en collaboration avec l'équipe M-AUTOMOTIV.
+Réalisation du socle technique backend pour le projet M-IA. Création de l'API interne gérant l'authentification, l'orchestration logicielle et l'intégration des API M-support selon des règles métier strictes. L'architecture de persistance des données repose exclusivement sur SQL Server avec la modélisation complète des utilisateurs, rôles, tickets, quotas et logs d'audit.
 
 ### [Plateforme de Micro-learning - Quiz Techniques](https://github.com/hiba-karam/plateforme-microlearning-quiz)
-> `Python` `Django` `MariaDB` `Algorithme Adaptatif` `Gamification` `Sécurité Backend`
+> `Python` `Django` `MySQL` `Algorithme Adaptatif` `Gamification` `Sécurité Backend`
 
 Conception et développement d'une plateforme web de micro-learning dédiée à l'évaluation technique en continu. Intégration d'un moteur adaptatif s'appuyant sur un arbre de décision pour ajuster dynamiquement la difficulté des questions. Pour maximiser l'engagement de l'apprenant, un système complet de gamification a été mis en place, incluant l'attribution de points, des badges de maîtrise et un classement global. L'intégrité des examens est garantie par une sécurisation stricte des sessions via Timestamp UNIX côté serveur.
 
 ---
 
-### [AWB Chatbot - Assistant Bancaire IA](https://github.com/hiba-karam/chatbot-bancaire-awb)
+### [AWB Chatbot - Prototype Bancaire](https://github.com/hiba-karam/chatbot-bancaire-awb)
 > `Python` `Flask` `LLM` `HTML/CSS/JS`
 
 Chatbot intelligent développé en stage chez Attijariwafa Bank. Architecture asynchrone connectant un LLM à une interface web réactive avec gestion des sessions sécurisées et système de thèmes clair/sombre.
@@ -83,7 +83,7 @@ Chatbot intelligent développé en stage chez Attijariwafa Bank. Architecture as
 ---
 
 ### [Dear Future - Capsule Temporelle Numérique](https://github.com/hiba-karam/dear-future-symfony)
-> `Symfony 7` `PHP 8.2` `MySQL` `MVC`
+> `Symfony 7` `PHP` `MySQL` `MVC`
 
 Application web sécurisée avec verrouillage temporel actif des données côté serveur. Association de lettres digitales et cadeaux physiques. Algorithme "Smart Zoom" sur mesure pour navigation immersive dans un catalogue produit.
 
@@ -97,9 +97,9 @@ SPA complète en Zéro Framework : routage manuel, manipulation DOM, KPI temps r
 ---
 
 ### Site Vitrine SDS - Souidis (Projet Client)
-> `PHP 8` `Symfony 7` `MySQL` `API REST` `JavaScript`
+> `PHP` `Symfony 7` `MySQL` `API REST` `JavaScript`
 
-Application web Full-Stack de distribution d'outillage professionnel. Architecture découplée intégrant un backend Symfony (PHP 8, Doctrine) avec API REST pour le traitement asynchrone des devis, la gestion administrative des commandes et le suivi client en temps réel.
+Application web Full-Stack de distribution d'outillage professionnel. Architecture découplée intégrant un backend Symfony (PHP, Doctrine) avec API REST pour le traitement asynchrone des devis, la gestion administrative des commandes et le suivi client en temps réel.
 
 ---
 
@@ -142,16 +142,15 @@ Gestion complète d'une agence de location : parc automobile, contrats, disponib
 
 | Certification | Organisme | Date |
 |---|---|---|
+| Software Engineering: Software Design and Project Management | HKUST | Juil 2026 |
 | Using Python to Access Web Data | University of Michigan | Avr 2026 |
 | Introduction to Java | LearnQuest | Mar 2026 |
-| JavaScript, jQuery & JSON | University of Michigan | Jan 2026 |
-| Introduction à la POO en C++ | EPFL | Déc 2025 |
-| Foundations of Project Management | Google | Sep 2025 |
+| JavaScript, jQuery, and JSON | University of Michigan | Jan 2026 |
+| Introduction à la programmation orientée objet (en C++) | EPFL | Déc 2025 |
 | Neural Networks and Deep Learning | DeepLearning.AI | Sep 2025 |
-| Python Data Structures | University of Michigan | Sep 2025 |
-| Programming for Everybody | University of Michigan | Sep 2025 |
 | Generative AI: Introduction and Applications | IBM | Sep 2025 |
 | Introduction to Cybersecurity Tools & Cyberattacks | IBM | Juil 2025 |
+| Foundations of Project Management | Google | Sep 2025 |
 
 ---
 
