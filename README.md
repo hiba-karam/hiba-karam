@@ -68,7 +68,7 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 
 Réalisation du socle technique global pour le projet M-IA. Création de l'interface interactive et de l'API interne gérant l'authentification et une sécurité stricte (RBAC 6 rôles). Modélisation SQL Server des quotas (Token Guard), tickets et audits. Rôle de pilier central d'intégration : fusion des modules d'équipe (SSO, LLM Gateway), debug global et maintien de la stabilité de l'architecture.
 
-### [FleetMaster – Gestion de Flotte Automobile](https://github.com/hiba-karam/fleetmaster) *(Ajoute le bon lien GitHub si tu l'as)*
+### [FleetMaster – Gestion de Flotte Automobile](https://github.com/hiba-karam/fleetmaster) 
 > `Django` `Python` `MySQL` `Bootstrap`
 
 Conception MVT avec contrôle d'accès dynamique (is_staff) rendant l'interface totalement réactive aux permissions. Système d'alertes automatiques et suivi kilométrique actif transformant l'application en outil d'aide à la décision.
