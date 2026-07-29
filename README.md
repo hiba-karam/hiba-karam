@@ -9,7 +9,7 @@
 ## À propos
 
 Étudiante en **3ᵉ année Ingénierie Informatique** à l'EMSI Casablanca. 
-Passionnée par l'**Intelligence Artificielle** et le développement **Full-Stack**, je conçois des architectures logicielles robustes intégrant des solutions intelligentes. Reconnue pour ma rigueur et mon leadership technique lors du développement de projets d'IA en entreprise (Attijariwafa Bank, M-AUTOMOTIV), je maîtrise la chaîne complète du développement : de la logique système jusqu'à l'intégration de LLMs et la sécurisation d'API. 
+Passionnée par l'**Intelligence Artificielle** et le développement **Full-Stack**, je conçois des architectures logicielles robustes intégrant des solutions intelligentes. Reconnue pour ma rigueur et mon leadership technique lors de mes projets d'IA en entreprise (Attijariwafa Bank, M-AUTOMOTIV), je maîtrise la chaîne complète du développement : de la logique système jusqu'à l'intégration de LLMs (Cloud et Locaux) et la sécurisation d'API complexes. 
 
 Je m'investis également activement dans l'innovation technologique et la vie de mon établissement en tant qu'ambassadrice et déléguée.
 
@@ -29,8 +29,8 @@ Lycée Mohamed V, Casablanca · Sep 2022 - Juin 2023
 
 ## Expérience
 
-**Stagiaire Développeuse Full-Stack & Intégratrice - M-AUTOMOTIV** *(Juillet 2026 – Présent)*
-Développement de l'API (Node.js), de l'interface (React) et de la sécurité (RBAC 6 rôles). Modélisation SQL Server (utilisateurs, rôles, quotas d'IA Token Guard, tickets et audit). Intégration technique : fusion des modules d'équipe (SSO, IA), debug global et stabilité de l'architecture.
+**Stagiaire Ingénieure Full-Stack & IA - M-AUTOMOTIV** *(Juillet 2026 – Août 2026)*
+Conception d'une plateforme d'audit et de support IT souveraine, propulsée par une IA 100% locale (Ollama). Développement Full-Stack de l'API (Node.js) et de l'interface (React) avec sécurité RBAC (6 rôles). Modélisation SQL Server et création du "Token Guard" (algorithme de gouvernance des quotas de l'IA). Leader technique sur le déploiement sécurisé et la stabilité de l'architecture.
 
 **Coordinatrice des Délégués - EMSI** *(Oct 2025 – Présent)*
 Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
@@ -53,10 +53,10 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 
 | Domaine | Technologies |
 |---|---|
-| **Langages** | Python · JavaScript · PHP · C/C++ |
-| **Frameworks** | React · Node.js · Express.js · Django · Symfony 7 |
+| **Langages** | Python · JavaScript · PHP · C/C++ · SQL (T-SQL) |
+| **Frameworks** | React · Node.js (Express) · Django · Symfony 7 |
 | **Data & BDD** | SQL Server · MySQL · API REST |
-| **Intelligence Artif.** | Intégration LLM · Machine Learning · Flask |
+| **Intelligence Artif.** | LLMs Locaux (Ollama) · Intégration LLM API · NLP |
 | **Outils & Sécurité** | Git · StarUML · RBAC · Agile/Scrum · Unix |
 
 ---
@@ -64,9 +64,9 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 ## Projets
 
 ### [M-IA – Plateforme de Support et d'Audit](https://github.com/hiba-karam/m-ia)
-> `React` `Node.js` `SQL Server` `RBAC` `Intégration Logicielle`
+> `React` `Node.js` `SQL Server` `RBAC` `Ollama (LLM Local)`
 
-Réalisation du socle technique global pour le projet M-IA. Création de l'interface interactive et de l'API interne gérant l'authentification et une sécurité stricte (RBAC 6 rôles). Modélisation SQL Server des quotas (Token Guard), tickets et audits. Rôle de pilier central d'intégration : fusion des modules d'équipe (SSO, LLM Gateway), debug global et maintien de la stabilité de l'architecture.
+Conception et développement de A à Z d'une plateforme d'audit et de support IT souveraine, intégrant une Intelligence Artificielle 100% locale (LLMs via Ollama). Développement Full-Stack (React, Node.js) de l'architecture logicielle sans dépendance Cloud. Modélisation sur SQL Server de la gestion des accès (RBAC), de la traçabilité et du "Token Guard" (gouvernance des quotas d'IA). Leader technique sur la sécurisation, l'optimisation des performances du modèle local et le debugging global.
 
 ### [FleetMaster – Gestion de Flotte Automobile](https://github.com/hiba-karam/fleetmaster) 
 > `Django` `Python` `MySQL` `Bootstrap`
